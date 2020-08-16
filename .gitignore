@@ -1,0 +1,13 @@
+*~
+*#
+*.o
+*.a
+navy
+*.txt
+pos1
+pos2
+palindrome
+a.out
+base_to_deci.c
+deci_to_base.c
+note
